@@ -1,0 +1,11 @@
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/bin/Debug/netcoreapp2.2/planetsAndSpaceShips.deps.json
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/bin/Debug/netcoreapp2.2/planetsAndSpaceShips.runtimeconfig.json
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/bin/Debug/netcoreapp2.2/planetsAndSpaceShips.runtimeconfig.dev.json
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/bin/Debug/netcoreapp2.2/planetsAndSpaceShips.dll
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/bin/Debug/netcoreapp2.2/planetsAndSpaceShips.pdb
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/obj/Debug/netcoreapp2.2/planetsAndSpaceShips.csprojAssemblyReference.cache
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/obj/Debug/netcoreapp2.2/planetsAndSpaceShips.csproj.CoreCompileInputs.cache
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/obj/Debug/netcoreapp2.2/planetsAndSpaceShips.AssemblyInfoInputs.cache
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/obj/Debug/netcoreapp2.2/planetsAndSpaceShips.AssemblyInfo.cs
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/obj/Debug/netcoreapp2.2/planetsAndSpaceShips.dll
+/Users/sambritt/workspace/csharp/exercises/lists/planetsAndSpaceShips/obj/Debug/netcoreapp2.2/planetsAndSpaceShips.pdb
